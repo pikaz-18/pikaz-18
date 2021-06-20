@@ -3,10 +3,10 @@
  * @Date: 2021-06-20 22:47:25
  * @Author: zouzheng
  * @LastEditors: zouzheng
- * @LastEditTime: 2021-06-20 23:34:28
+ * @LastEditTime: 2021-06-20 23:38:54
 -->
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pikaz-18&repo=pikaz-18)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=pikaz-18&show_icons=true&include_all_commits=true)](https://github.com/pikaz-18/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=pikaz-18)](https://github.com/pikaz-18/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pikaz-18&layout=compact)](https://github.com/pikaz-18/github-readme-stats)
