@@ -10,8 +10,6 @@
 -  奶茶爱好者
 -  coding
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pikaz-18&repo=pikaz-18)
-
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
