@@ -6,9 +6,9 @@
  * @LastEditTime: 2021-06-20 23:47:10
 -->
 
-Here are some ideas to get your started:
-
--   小小前端一枚
+-  小小前端一枚
+-  奶茶爱好者
+-  coding
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pikaz-18&repo=pikaz-18)
 
