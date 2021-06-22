@@ -8,7 +8,7 @@
 
 -  小小前端一枚
 -  奶茶爱好者
--  codder
+-  coder
 
 <details open>
  <summary><b>My Github Stats</b>: </summary>
