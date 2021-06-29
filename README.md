@@ -14,7 +14,7 @@
  <summary><b>My Github Stats</b>: </summary>
 <br>
 <center>
-  <img src = "https://github-readme-stats.vercel.app/api?username=pikaz-18&show_icons=true&line_height=33&hide_border=true&count_private=true&hide=prs,issues,contribs">
+  <img src = "https://github-readme-stats.vercel.app/api?username=pikaz-18&show_icons=true&line_height=33&hide_border=true&count_private=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pikaz-18&hide_border=true">
 </center>
 </details>
