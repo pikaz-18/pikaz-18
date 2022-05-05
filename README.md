@@ -9,6 +9,7 @@
 -  小前端一枚
 -  奶茶爱好者
 -  coder
+邮箱：qq2363994579@outlook.com
 
 <details open>
  <summary><b>My Github Stats</b>: </summary>
